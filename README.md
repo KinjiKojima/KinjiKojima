@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KinjiKojima
 - 👀 I’m interested in Hardwares and Softwares aswell as Internet and Cybersecurity
-- 🌱 I’m currently learning python and all my known languages
-- 💞️ I’m looking to collaborate on Cybersecurity
-- 📫 How to reach me via mail KinjiBloodFallen@gmail.com
+- 🌱 I’m want to learn python and all the necesarry language
+- 💞️ I’m looking forward to enhance my Cybersecurity knowledge and skills
+- 📫 How to reach me via mail KinjiKojima.kk@gmail.com
 - 😄 Pronouns: Him
 - ⚡ Fun fact: :D
 
